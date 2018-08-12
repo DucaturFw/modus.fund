@@ -20,4 +20,4 @@ https://github.com/DucaturFw/modus_dapp
 * liquidity bots
 * chains
 * crosschain relay
-https://github.com/DucaturFw/modus_services
+https://github.com/DucaturFw/modus-node
